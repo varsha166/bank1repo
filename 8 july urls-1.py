@@ -25,4 +25,4 @@ urlpatterns = [
     url(r'^api-auth/', include('rest_framework.urls')),
     url(r'^$', schema_view)
 ]
-print("hiiiiiii11111222223344445555")
+print("hiiiiiii")
