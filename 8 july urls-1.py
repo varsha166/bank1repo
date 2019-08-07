@@ -25,9 +25,5 @@ urlpatterns = [
     url(r'^api-auth/', include('rest_framework.urls')),
     url(r'^$', schema_view)
 ]
-<<<<<<< HEAD
-print("hiiiiiiiiiiiiii111iiii2323233")
-=======
-print("hiiiiiiiiiiiiii111")
->>>>>>> 26d572571d1dd5705656da16fe3c8377a1dae59d
-prini("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii")
+
+prini("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii")
